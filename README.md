@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roshan
-- 👀 I’m interested in python backed frameworks and frontend technologies as html css
+- 👀 I’m interested in python backed frameworks and frontend technologies as html css js
 - 🌱 I’m currently learning frontend technologies javascript and reactjs
 - 💞️ Present I’m looking to collaborate on role of python backend developer 
 - 📫 Reach me : roshansk032@gmail.com
