@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @roshan
-- 👀 I’m interested in python backed frameworks and frontend technologies as html css js
-- 🌱 I’m currently learning frontend technologies javascript and reactjs
-- 💞️ Present I’m looking to collaborate on role of python backend developer 
+- 👀 I’m interested in becoming a skilled Python backend developer.
+- ⚙️ Experienced in building robust REST APIs using Django Rest Framework.
+- ✍️ I love contributing to open-source and writing clean, maintainable code.
+- 📈 Eager to join teams where I can grow and build meaningful backend services.
+- 💞️ Currently open to collaboration opportunities as a Python backend developer.
 - 📫 Reach me : roshansk032@gmail.com
 - 😄 Pronouns: roshan 
 
